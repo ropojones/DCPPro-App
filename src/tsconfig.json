@@ -34,6 +34,7 @@
   ],
   "angularCompilerOptions": {
     "fullTemplateTypeCheck": true,
+    "enableIvy": false,
     "strictTemplates": true,
     "strictInputTypes": false,
     "strictAttributeTypes": false,
